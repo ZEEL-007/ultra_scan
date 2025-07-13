@@ -36,20 +36,23 @@
 ```bash
 # Clone this repository
 git clone https://github.com/yourusername/ultra-scan.git
-
+```
+```bash
 # Change into the directory
 cd ultra-scan
-
+```
+```bash
 # Make the script executable
 chmod +x ultra_scan.sh
-
+```
+```bash
 # use tool
 ./ultra_scan.sh
 ```
 
 ## 🧠 Author Info
-👤 Author: Zeel Kotadiya
-📷 Instagram: __mr.kotadiya__
+- 👤 Author: Zeel Kotadiya   
+- 📷 Instagram: __mr.kotadiya__
 
 ## ⚠️ Disclaimer
 - This tool is for educational and authorized testing purposes only.
