@@ -35,7 +35,7 @@
 
 # Clone this repository
 ```bash
-git clone https://github.com/ZEEL-007/ultra-scan.git
+git clone https://github.com/ZEEL-007/ultra_scan.git
 ```
 # Unzip the file
 ```bash
