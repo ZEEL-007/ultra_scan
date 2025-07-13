@@ -37,13 +37,13 @@
 ```bash
 git clone https://github.com/ZEEL-007/ultra_scan.git
 ```
-# Unzip the file
-```bash
-unzip Ultra_scan.zip
-```
 # Change into the directory
 ```bash
 cd ultra-scan
+```
+# Unzip the file
+```bash
+unzip Ultra_scan.zip
 ```
 # Make the script executable
 ```bash
