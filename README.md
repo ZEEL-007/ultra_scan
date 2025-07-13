@@ -39,7 +39,7 @@ git clone https://github.com/ZEEL-007/ultra_scan.git
 ```
 # Change into the directory
 ```bash
-cd ultra-scan
+cd ultra_scan
 ```
 # Unzip the file
 ```bash
