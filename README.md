@@ -33,20 +33,20 @@
 
 ## 🔧 Installation
 
-```bash
 # Clone this repository
+```bash
 git clone https://github.com/yourusername/ultra-scan.git
 ```
-```bash
 # Change into the directory
+```bash
 cd ultra-scan
 ```
-```bash
 # Make the script executable
+```bash
 chmod +x ultra_scan.sh
 ```
-```bash
 # use tool
+```bash
 ./ultra_scan.sh
 ```
 
