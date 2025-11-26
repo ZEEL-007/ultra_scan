@@ -1,6 +1,6 @@
 # 🔍 Ultra Scan
 
-**Ultra Scan** is an advanced Nmap-based network scanner with a user-friendly interactive menu in the terminal. Written in Bash, it offers over 25+ powerful scanning options—from basic ping scans to vulnerability assessments and firewall evasion techniques.
+**Ultra Scan** is an advanced Nmap-based network scanner with a user-friendly interactive menu in the terminal. Written in Bash, it offers over 25+ powerful scanning options-from basic ping scans to vulnerability assessments and firewall evasion techniques.
 
 ![Ultra Scan](https://img.shields.io/badge/Bash-Script-blue?logo=gnu-bash&style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Zeel%20Kotadiya-orange?style=for-the-badge)
