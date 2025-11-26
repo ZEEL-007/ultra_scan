@@ -52,7 +52,7 @@ chmod +x ultra_scan.sh
 
 ## 🧠 Author Info
 - 👤 Author: Zeel Kotadiya   
-- 📷 Instagram: '__mr.kotadiya__'
+- 📷 Instagram: __mr.kotadiya__
 
 ## ⚠️ Disclaimer
 - This tool is for educational and authorized testing purposes only.
